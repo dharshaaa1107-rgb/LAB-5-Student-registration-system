@@ -35,3 +35,5 @@ c. Better Service
 ### RESULT:
 Thus the Student information system project was executed and the output was
 verified.
+
+https://img.sanishtech.com/u/54f9a55836414dd991b915041d9ed4a9.png
