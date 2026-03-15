@@ -36,3 +36,5 @@ c. Better Service
 Thus the Student information system project was executed and the output was
 verified.
 
+
+<img src="https://img.sanishtech.com/u/54f9a55836414dd991b915041d9ed4a9.png" alt="software engineering exp 6 " width="1000" height="1000" loading="lazy" style="max-width:100%;height:auto;">
